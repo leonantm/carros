@@ -20,7 +20,7 @@ source venv/bin/activate
 
 Instalar dependências
 ```bash
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Fazer migrate
